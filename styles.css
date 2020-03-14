@@ -1,0 +1,82 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 8px;
+}
+
+p {
+    text-align: justify;
+}
+section {
+    height: 500px;
+    margin-bottom: 50px;
+}
+.intro {
+    background-image: url('images/top-banner.png');
+    background-repeat: no-repeat;
+}
+
+.name-highlight {
+    color: orange;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.intro img {
+    width: 80%;
+}
+
+.linkedin_btn {
+    text-decoration: none;
+    background-color: #0072b1;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.github_btn {
+    text-decoration: none;
+    background-color: #211F1F;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.link_btn {
+    margin-top: 30px;
+}
+
+.half-width2 {
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+
+.about {
+    background-image: url('images/dream-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.about img {
+    width: 80%;
+}
+
+.cv_btn {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #09D8DC, #0040ff);
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
